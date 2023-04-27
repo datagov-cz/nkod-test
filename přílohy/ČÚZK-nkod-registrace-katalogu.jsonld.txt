@@ -1,0 +1,22 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://atom.cuzk.cz/api/package_list.jsonld",
+  "název": {
+        "cs": "Katalog otevřených dat ČÚZK - test",
+        "en": "Catalogue of Open Data of The Czech Office for Surveying, Mapping and Cadastre - test"
+    },
+"kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+          "cs": "Mgr. Veronika Kůsová"
+        },
+        "e-mail": "mailto:veronika.kusova@cuzk.cz"
+    },
+  "http://xmlns.com/foaf/0.1/homepage": {
+    "@id": "https://atom.cuzk.cz"
+  }
+}

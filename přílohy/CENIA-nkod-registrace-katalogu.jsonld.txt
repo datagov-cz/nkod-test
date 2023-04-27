@@ -1,0 +1,22 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://geoportal.gov.cz/php/micka/csw/?request=GetRecords&query=OtherConstraints%3D%27http%3A%2F%2Fopendata.gov.cz%2Fdefinition%2Fopendata%27&MaxRecords=9999&StartPosition=&language=cze&ElementSetName=brief&outputSchema=http://www.w3.org/ns/dcat%23&format=text/turtle",
+  "název": {
+        "cs": "Katalog CENIA",
+        "en": "CENIA LKOD"
+    },
+"kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+          "cs": "Štěpán Kafka"
+        },
+        "e-mail": "mailto:kafka@email.cz"
+    },
+  "http://xmlns.com/foaf/0.1/homepage": {
+    "@id": "https://micka.cenia.cz/cs/csw?service=CSW&request=GetRecordById&id=5b7a9b57-70c0-4576-b044-5c67c0a80138&outputschema=http://www.w3.org/ns/dcat%23&format=text/turtle"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://vdb.czso.cz/pll/eweb/lkod_ld.katalog",
+  "název": {
+        "cs": "Katalog otevřených dat ČSÚ - test",
+        "en": "Catalogue of the Czech Statistical Office - test"
+    },
+"kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+          "cs": "Martin Černý"
+        },
+        "e-mail": "mailto:martin.cerny@czso.cz"
+    },
+  "http://xmlns.com/foaf/0.1/homepage": {
+    "@id": "https://www.czso.cz/csu/czso/otevrena_data"
+  }
+}

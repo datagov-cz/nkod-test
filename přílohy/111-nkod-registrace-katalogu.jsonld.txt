@@ -1,0 +1,22 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://monitor.statnipokladna.cz/api/opendata/monitor",
+  "název": {
+        "cs": "Katalog GitHub NoPages",
+        "en": "GitHub NoPages LKOD"
+    },
+"kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+          "cs": "Jakub Klímek"
+        },
+        "e-mail": "mailto:jakub.klimek@mvcr.cz"
+    },
+  "http://xmlns.com/foaf/0.1/homepage": {
+    "@id": "https://github.com/jakubklimek/lkod-mvcr"
+  }
+}
