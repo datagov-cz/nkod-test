@@ -2,7 +2,7 @@
 @prefix nkod: <https://data.gov.cz/slovník/nkod/> .
 @prefix ds: <https://data.gov.cz/zdroj/datové-schránky/> .
 
-<https://data.gov.cz/zdroj/nkod/přijaté-záznamy/DIA-RPP>
+<https://data.gov.cz/zdroj/nkod/přijaté-záznamy/TEST-MOST>
   a nkod:PřijatýZáznam ;
     nkod:id-datové-zprávy "TEST-MOST" ;
     nkod:anotace "NKOD" ;
