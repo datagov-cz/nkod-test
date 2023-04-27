@@ -1,0 +1,20 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApSparql"
+  ],
+  "přístupový_bod": "https://sparql-lkod.golemio.cz/lkod",
+  "název": {
+    "cs": "Golemio LKOD - PRE-PROD",
+    "en": "Golemio LKOD - PRE-PROD"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ladislav Bláha"
+    },
+    "e-mail": "mailto:blaha.ladislav@operatorict.cz"
+  },
+  "domovská_stránka": "https://lkod.golemio.cz/"
+}

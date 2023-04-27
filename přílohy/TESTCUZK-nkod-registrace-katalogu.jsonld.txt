@@ -1,0 +1,18 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://atom.cuzk.cz/api/test/package_list.jsonld",
+  "název": {
+    "cs": "Katalog test ČÚZK"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "ČÚZK"
+    },
+    "e-mail": "mailto:veronika.kusova@cuzk.cz"
+  }
+}
