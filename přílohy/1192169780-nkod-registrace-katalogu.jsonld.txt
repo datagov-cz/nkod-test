@@ -1,0 +1,20 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://opendata.csicr.cz/DcatEndpoint/Catalog",
+  "název": {
+    "cs": "Katalog otevřených dat České školní inspekce",
+    "en": "Open data catalog of the Czech School Inspectorate"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Bc. Kamil Melichárek"
+    },
+    "e-mail": "mailto:opendata@csicr.cz"
+  },
+  "domovská_stránka": "https://opendata.csicr.cz"
+}

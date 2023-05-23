@@ -1,0 +1,9 @@
+@prefix nkod: <https://data.gov.cz/slovník/nkod/> .
+@prefix ds: <https://data.gov.cz/zdroj/datové-schránky/> .
+
+<https://data.gov.cz/zdroj/nkod/přijaté-záznamy/1192169780> a nkod:PřijatýZáznam;
+  nkod:id-datové-zprávy "1192169780";
+  nkod:anotace "NKOD";
+  nkod:datová-schránka-poskytovatele ds:g7zais9;
+  nkod:datová-zpráva-přijata "2023-05-19T11:02:16.456+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  nkod:jméno-souboru "1192169780-nkod-registrace-katalogu.jsonld.txt" .
