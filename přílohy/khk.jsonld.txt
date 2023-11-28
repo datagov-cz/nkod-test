@@ -1,0 +1,18 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://khk.krajdtm.cz/opendata-khk/lkod/",
+  "název": {
+    "cs": "Katalog otevřených dat KHK - IS DTM"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Odile Vyhnálková"
+    },
+    "e-mail": "mailto:odvyhnalkova@kr-kralovehradecky.cz"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://usk.krajdtm.cz/opendata-usk/lkod/",
+  "název": {
+    "cs": "Katalog otevřených dat USK - IS DTM"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Benjamin Bárta"
+    },
+    "e-mail": "mailto:barta.b@kr-ustecky.cz"
+  }
+}

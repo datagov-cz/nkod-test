@@ -1,0 +1,18 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://msk.krajdtm.cz/opendata-msk/lkod/",
+  "název": {
+    "cs": "Katalog otevřených dat MSK - IS DTM"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Aneta Drastiková"
+    },
+    "e-mail": "mailto:aneta.drastikova@msk.cz"
+  }
+}
