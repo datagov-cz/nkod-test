@@ -4,7 +4,7 @@
     "Katalog",
     "https://data.gov.cz/slovník/nkod/DcatApLkod"
   ],
-  "přístupový_bod": "https://msk.krajdtm.cz/opendata-msk/lkod/",
+  "přístupový_bod": "https://msk.krajdtm.cz/opendata-msk/lkod",
   "název": {
     "cs": "Katalog otevřených dat MSK - IS DTM"
   },

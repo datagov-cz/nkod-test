@@ -4,7 +4,7 @@
     "Katalog",
     "https://data.gov.cz/slovník/nkod/DcatApLkod"
   ],
-  "přístupový_bod": "https://vys.krajdtm.cz/opendata-vys/lkod/",
+  "přístupový_bod": "https://vys.krajdtm.cz/opendata-vys/lkod",
   "název": {
     "cs": "Katalog otevřených dat VYS- IS DTM"
   },

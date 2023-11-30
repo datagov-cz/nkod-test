@@ -4,7 +4,7 @@
     "Katalog",
     "https://data.gov.cz/slovník/nkod/DcatApLkod"
   ],
-  "přístupový_bod": "https://jck.krajdtm.cz/opendata-jck/lkod/",
+  "přístupový_bod": "https://jck.krajdtm.cz/opendata-jck/lkod",
   "název": {
     "cs": "Katalog otevřených dat JČK - IS DTM"
   },
