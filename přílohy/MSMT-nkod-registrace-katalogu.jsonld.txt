@@ -1,20 +1,19 @@
 {
-    "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "@type": [
-        "Katalog",
-        "https://data.gov.cz/slovník/nkod/DcatApLkod"
-    ],
-    "domovská_stránka": "https://www.msmt.cz",
-    "kontaktní_bod": {
-        "e-mail": "mailto:rejstrik@msmt.cz",
-        "jméno": {
-            "cs": "MŠMT"
-        },
-        "typ": "Organizace"
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://api-lkod.cca.cz/lod/catalog",
+  "název": {
+    "cs": "Ministerstvo školství, mládeže a tělovýchovy - DEV"
+  },
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Martin Bíkl"
     },
-    "název": {
-        "cs": "Katalog otevřených dat MŠMT",
-        "en": "Open data catalog of Ministry of Education, Youth and Sports"
-    },
-    "přístupový_bod": "https://data.msmt.cz/lkod/00022985/katalog"
+    "e-mail": "mailto:martin.bikl@cca.cz"
+  },
+  "domovská_stránka": "https://lkod.cca.cz/"
 }
