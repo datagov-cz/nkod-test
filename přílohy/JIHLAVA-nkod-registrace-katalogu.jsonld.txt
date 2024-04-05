@@ -17,6 +17,6 @@
         "e-mail": "mailto:jakub.klimek@mvcr.cz"
     },
   "http://xmlns.com/foaf/0.1/homepage": {
-    "@id": "https://github.com/jakubklimek/lkod-mvcr"
+    "@id": "https://isdv.upv.gov.cz/webapp/webapp.pubsrv.seznam?pid=7"
   }
 }
