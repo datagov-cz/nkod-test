@@ -1,0 +1,22 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@type": [
+    "Katalog",
+    "https://data.gov.cz/slovník/nkod/DcatApLkod"
+  ],
+  "přístupový_bod": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/katalog.jsonld",
+  "název": {
+        "cs": "Katalog DIA HVD",
+        "en": "DIA-HVD"
+    },
+"kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+          "cs": "Jakub Klímek"
+        },
+        "e-mail": "mailto:jakub.klimek@dia.gov.cz"
+    },
+  "http://xmlns.com/foaf/0.1/homepage": {
+    "@id": "https://github.com/jakubklimek/lkod-test/tree/main"
+  }
+}
