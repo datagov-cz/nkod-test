@@ -1,0 +1,12 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix nkod: <https://data.gov.cz/slovník/nkod/> .
+@prefix ds: <https://data.gov.cz/zdroj/datové-schránky/> .
+
+<https://data.gov.cz/zdroj/nkod/přijaté-záznamy/TESTMSMT2>
+  a nkod:PřijatýZáznam ;
+    nkod:id-datové-zprávy "TESTMSMT2" ;
+    nkod:anotace "NKOD" ;
+    nkod:datová-schránka-poskytovatele ds:vidaawt ;
+    nkod:datová-zpráva-přijata "2024-05-12T14:26:50.784+02:00"^^xsd:dateTime ;
+    nkod:jméno-souboru "MSMT2-nkod-registrace-katalogu.jsonld.txt" ;
+.
