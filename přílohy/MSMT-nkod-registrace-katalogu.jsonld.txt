@@ -4,9 +4,9 @@
     "Katalog",
     "https://data.gov.cz/slovník/nkod/DcatApLkod"
   ],
-  "přístupový_bod": "https://api-lkod.cca.cz/lod/catalog",
+  "přístupový_bod": "https://api.lkod-tst.msmt.cz/lod/catalog",
   "název": {
-    "cs": "Ministerstvo školství, mládeže a tělovýchovy - DEV"
+    "cs": "Ministerstvo školství, mládeže a tělovýchovy - TEST"
   },
   "kontaktní_bod": {
     "typ": "Organizace",
@@ -15,5 +15,5 @@
     },
     "e-mail": "mailto:martin.bikl@cca.cz"
   },
-  "domovská_stránka": "https://lkod.cca.cz/"
+  "domovská_stránka": "https://lkod-tst.msmt.cz/"
 }

@@ -7,6 +7,6 @@
     nkod:id-datové-zprávy "TESTMSMT" ;
     nkod:anotace "NKOD" ;
     nkod:datová-schránka-poskytovatele ds:vidaawt ;
-    nkod:datová-zpráva-přijata "2021-04-28T13:32:50.784+01:00"^^xsd:dateTime ;
+    nkod:datová-zpráva-přijata "2024-05-12T14:26:50.784+02:00"^^xsd:dateTime ;
     nkod:jméno-souboru "MSMT-nkod-registrace-katalogu.jsonld.txt" ;
 .
