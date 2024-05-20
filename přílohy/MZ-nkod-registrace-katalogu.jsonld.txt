@@ -8,7 +8,7 @@
     "kontaktní_bod": {
         "e-mail": "mailto:opendata@mzcr.cz",
         "jméno": {
-            "cs": "Ústav zdravotnických informací a statitiky ČR"
+            "cs": "Ústav zdravotnických informací a statistiky ČR"
         },
         "typ": "Organizace"
     },
