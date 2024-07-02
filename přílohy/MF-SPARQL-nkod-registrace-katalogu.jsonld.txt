@@ -4,7 +4,7 @@
     "Katalog",
     "https://data.gov.cz/slovník/nkod/DcatApSparql"
   ],
-  "přístupový_bod": "https://oha02.dia.gov.cz/vsparql",
+  "přístupový_bod": "https://opendata.mfcr.cz/lod/sparql",
   "název": {
         "cs": "Katalog MF SPARQL",
         "en": "MF"
