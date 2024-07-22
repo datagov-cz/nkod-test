@@ -1,0 +1,12 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix nkod: <https://data.gov.cz/slovník/nkod/> .
+@prefix ds: <https://data.gov.cz/zdroj/datové-schránky/> .
+
+<https://data.gov.cz/zdroj/nkod/přijaté-záznamy/HVD-TTL>
+  a nkod:PřijatýZáznam ;
+    nkod:id-datové-zprávy "HVD-TTL" ;
+    nkod:anotace "NKOD" ;
+    nkod:datová-schránka-poskytovatele ds:yukd8p7;
+    nkod:datová-zpráva-přijata "2024-05-08T13:32:50.784+01:00"^^xsd:dateTime ;
+    nkod:jméno-souboru "HVD-TTL-nkod-registrace-katalogu.jsonld.txt" ;
+.
