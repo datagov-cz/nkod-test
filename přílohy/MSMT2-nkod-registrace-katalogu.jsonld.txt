@@ -4,16 +4,16 @@
     "Katalog",
     "https://data.gov.cz/slovník/nkod/DcatApLkod"
   ],
-  "přístupový_bod": "https://api.lkod-tst.msmt.cz/lod/catalog",
+  "přístupový_bod": "https://lkod-test-api.msmt.gov.cz/lod/catalog",
   "název": {
     "cs": "Ministerstvo školství, mládeže a tělovýchovy - TEST"
   },
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
-      "cs": "Martin Bíkl"
+      "cs": "MŠMT"
     },
-    "e-mail": "mailto:martin.bikl@cca.cz"
+    "e-mail": "mailto:posta@msmt.gov.cz"
   },
-  "domovská_stránka": "https://lkod-tst.msmt.cz/"
+  "domovská_stránka": "https://lkod-test.msmt.gov.cz/"
 }
