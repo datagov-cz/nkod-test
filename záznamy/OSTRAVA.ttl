@@ -6,7 +6,7 @@
   a nkod:PřijatýZáznam ;
     nkod:id-datové-zprávy "OSTRAVA" ;
     nkod:anotace "NKOD" ;
-    nkod:datová-schránka-poskytovatele ds:yukd8p7;
+    nkod:datová-schránka-poskytovatele ds:5zubv7w;
     nkod:datová-zpráva-přijata "2025-03-10T13:32:50.784+01:00"^^xsd:dateTime ;
     nkod:jméno-souboru "OSTRAVA-nkod-registrace-katalogu.jsonld.txt" ;
 .
