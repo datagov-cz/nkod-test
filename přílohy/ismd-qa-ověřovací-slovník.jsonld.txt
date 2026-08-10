@@ -1,0 +1,61 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "ISMD QA ověřovací slovník"
+  },
+  "popis": {
+    "cs": "ISMD QA ověřovací slovník"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "klíčové_slovo": {
+    "cs": [
+      "slovník"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/AS_NEEDED",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/438"
+  ],
+  "specifikace": [
+    "https://ofn.gov.cz/slovníky/",
+    "https://ofn.gov.cz/slovníky/2026-02-26/"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/slovníky/ismd-qa-ověřovací-slovník/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/nkd-test/qa_overovaci_slovnik_nkd_sync_20260803.ttl",
+      "přístupové_url": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/nkd-test/qa_overovaci_slovnik_nkd_sync_20260803.ttl",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/slovníky/ismd-qa-ověřovací-slovník/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/nkd-test/qa_overovaci_slovnik_nkd_sync_20260803.json-ld",
+      "přístupové_url": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/nkd-test/qa_overovaci_slovnik_nkd_sync_20260803.json-ld",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD"
+    }
+  ]
+}
